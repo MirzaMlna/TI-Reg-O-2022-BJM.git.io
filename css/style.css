@@ -24,7 +24,18 @@ background-color: rgba(245, 245, 245, 0.459);
   transform: translateY(-50%);    
 }
 
-.fontbagus{
-font-family : kusanagi;
+.aquatico{
+font-family : aquatico;
 }
 
+.kusanagi{
+  font-family : kusanagi;
+}
+
+.cheorcy{
+  font-family :cheorcy;
+}
+
+.aquire{
+  font0family :aquire;
+}
